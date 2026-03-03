@@ -1,5 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft%26color=0:1a1a2e,50:16213e,100:0f3460%26height=200%26section=header%26text=Rajkeshwar%20Prasad%26fontSize=50%26fontColor=e94560%26desc=Lead%20Fullstack%20Engineer%20%7C%20Java%20%26%20Frontend%20Architect%26descColor=a8dadc%26descSize=18" />
+
+  <svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#1a1a2e"/>
+        <stop offset="50%" style="stop-color:#16213e"/>
+        <stop offset="100%" style="stop-color:#0f3460"/>
+      </linearGradient>
+    </defs>
+    <rect width="800" height="160" fill="url(#bg)" rx="12"/>
+    <text x="400" y="78" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#e94560" text-anchor="middle">Rajkeshwar Prasad</text>
+    <text x="400" y="118" font-family="Georgia, serif" font-size="17" fill="#a8dadc" text-anchor="middle">Lead Fullstack Engineer · Java &amp; Frontend Architect</text>
+  </svg>
 
   <p align="center">
     <a href="https://linkedin.com/in/rajkeshwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -14,9 +26,9 @@
 
 ### 👨‍💻 Professional Summary
 
-Lead Fullstack Engineer with **15+ years of experience** delivering enterprise solutions for **ING, DBS Bank, and Bank of America**. Specialized in high-scale Microservices (Java/Spring Boot) and modern, accessible Frontend Architectures.
+Lead Fullstack Engineer with **a decade and a half of experience** delivering enterprise solutions for **global financial institutions** including top-tier banks across Asia, Europe, and the US. Specialized in high-scale Microservices (Java/Spring Boot) and modern, accessible Frontend Architectures.
 
-* 🔭 **Currently:** Lead Fullstack Consultant at **HCLTech**, deployed at **ING Bank** — Nürnberg, Germany.
+* 🔭 **Currently:** Lead Fullstack Consultant at **HCLTech**, embedded at a leading European bank — Nürnberg, Germany.
 * ⚡ **Impact:** Built a banking chatbot serving **360K+ monthly users**, reducing support tickets by **25%**.
 * 🛠️ **Architected:** Enterprise component libraries used by **50+ apps**, boosting dev velocity by **35%**.
 * 🗄️ **Optimized:** Spring Data JPA & SQL tuning — **30% faster APIs**, **40% less DB load**.
@@ -29,6 +41,7 @@ Lead Fullstack Engineer with **15+ years of experience** delivering enterprise s
 | Project | Contribution |
 |---------|-------------|
 | **[ING Lion](https://github.com/ing-bank/lion)** — Web Components library | [mdjs sandbox demos](https://github.com/ing-bank/lion/pull/2503) · [Localization loader](https://github.com/ing-bank/lion/pull/2477) · [Locale resolution util](https://github.com/ing-bank/lion/pull/2430) · [Localize support](https://github.com/ing-bank/lion/pull/2334) |
+| **[axios-docs](https://github.com/axios/axios-docs)** | [Clarify auth behavior with axios instances](https://github.com/axios/axios-docs/pull/315) |
 | **[Webpack Dev Server](https://github.com/webpack/webpack-dev-server)** | [Performance / stability PR](https://github.com/webpack/webpack-dev-server/pull/2516) |
 | **[modernweb-dev](https://github.com/modernweb-dev/example-projects)** | [Upgraded lit-element-ts-esbuild module](https://github.com/modernweb-dev/example-projects/pull/1016) |
 | **[PrimeNG](https://github.com/primefaces/primeng)** / **[PrimeReact](https://github.com/primefaces/primereact)** | [Issue #17084](https://github.com/primefaces/primeng/issues/17084) · [Issue #6016](https://github.com/primefaces/primereact/issues/6016) · [Issue #5393](https://github.com/primefaces/primereact/issues/5393) |
