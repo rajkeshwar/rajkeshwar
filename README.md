@@ -1,17 +1,6 @@
 <div align="center">
 
-  <svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#1a1a2e"/>
-        <stop offset="50%" style="stop-color:#16213e"/>
-        <stop offset="100%" style="stop-color:#0f3460"/>
-      </linearGradient>
-    </defs>
-    <rect width="800" height="160" fill="url(#bg)" rx="12"/>
-    <text x="400" y="78" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#e94560" text-anchor="middle">Rajkeshwar Prasad</text>
-    <text x="400" y="118" font-family="Georgia, serif" font-size="17" fill="#a8dadc" text-anchor="middle">Lead Fullstack Engineer · Java &amp; Frontend Architect</text>
-  </svg>
+  <img src="./rajkeshwar-banner.png" width="100%" alt="Rajkeshwar Prasad — Lead Fullstack Engineer specializing in Java, Spring Boot, React, Angular and Cloud Architectures. AWS AI Practitioner, Google Cloud Engineer, and Generative AI specialist based in Nürnberg, Germany." />
 
   <p align="center">
     <a href="https://linkedin.com/in/rajkeshwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
