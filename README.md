@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Professional Summary
 
-Lead Fullstack Engineer with **a decade and a half of experience** delivering enterprise solutions for **global financial institutions** including top-tier banks across Asia, Europe, and the US. Specialized in high-scale Microservices (Java/Spring Boot) and modern, accessible Frontend Architectures.
+Lead Fullstack Engineer with **a decade plus experience** delivering enterprise solutions for **global financial institutions** including top-tier banks across Asia, Europe, and the US. Specialized in high-scale Microservices (Java/Spring Boot) and modern, accessible Frontend Architectures.
 
 * 🔭 **Currently:** Lead Fullstack Consultant at **HCLTech**, embedded at a leading European bank — Nürnberg, Germany.
 * ⚡ **Impact:** Built a banking chatbot serving **360K+ monthly users**, reducing support tickets by **25%**.
