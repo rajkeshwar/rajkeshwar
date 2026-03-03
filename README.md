@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Rajkeshwar%20Prasad&fontSize=50&fontColor=e94560&desc=Lead%20Fullstack%20Engineer%20%7C%20Java%20%26%20Frontend%20Architect&descColor=a8dadc&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=soft%26color=0:1a1a2e,50:16213e,100:0f3460%26height=200%26section=header%26text=Rajkeshwar%20Prasad%26fontSize=50%26fontColor=e94560%26desc=Lead%20Fullstack%20Engineer%20%7C%20Java%20%26%20Frontend%20Architect%26descColor=a8dadc%26descSize=18" />
 
   <p align="center">
     <a href="https://linkedin.com/in/rajkeshwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -66,10 +66,10 @@ Lead Fullstack Engineer with **15+ years of experience** delivering enterprise s
 
 ### 🎓 Certifications
 
-![Google Gen AI](https://img.shields.io/badge/Google-Generative%20AI%20Leader-4285F4?style=flat-square&logo=google)
-![GCP ACE](https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=googlecloud)
-![AWS](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Java%20SE%206%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
+<a href="https://www.credly.com/badges/06f13cdc-a256-488d-bc7d-09edc4fea96b/public_url"><img src="https://img.shields.io/badge/Google-Generative%20AI%20Leader-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/26b4d4a8-794d-48cb-bbe8-a36f36b487d3/public_url"><img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/ee0ab227-0bbe-45fd-b2f0-718e17221af6/public_url"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/441dec01-6efb-4166-9478-ce521ffedf38/public_url"><img src="https://img.shields.io/badge/Oracle-Java%20SE%206%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white" /></a>
 
 ---
 
