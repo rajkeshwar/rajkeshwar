@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./rajkeshwar-banner.png" width="100%" alt="Rajkeshwar Prasad — Lead Fullstack Engineer specializing in Java, Spring Boot, React, Angular and Cloud Architectures. AWS AI Practitioner, Google Cloud Engineer, and Generative AI specialist based in Nürnberg, Germany." />
+  <img src="./rajkeshwar-banner-2.png" width="100%" alt="Rajkeshwar Prasad — Lead Fullstack Engineer specializing in Java, Spring Boot, React, Angular and Cloud Architectures. AWS AI Practitioner, Google Cloud Engineer, and Generative AI specialist based in Nürnberg, Germany." />
 
   <p align="center">
     <a href="https://linkedin.com/in/rajkeshwar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
