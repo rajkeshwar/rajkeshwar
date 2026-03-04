@@ -35,6 +35,7 @@ Lead Fullstack Engineer with **a decade plus experience** delivering enterprise 
 | **[modernweb-dev](https://github.com/modernweb-dev/example-projects)** | [Upgraded lit-element-ts-esbuild module](https://github.com/modernweb-dev/example-projects/pull/1016) |
 | **[PrimeNG](https://github.com/primefaces/primeng)** / **[PrimeReact](https://github.com/primefaces/primereact)** | [Issue #17084](https://github.com/primefaces/primeng/issues/17084) · [Issue #6016](https://github.com/primefaces/primereact/issues/6016) · [Issue #5393](https://github.com/primefaces/primereact/issues/5393) |
 | **[Plnkr](https://github.com/plnkr/feedback)** | [Customized for secure component playgrounds](https://github.com/plnkr/feedback/issues/624) |
+| **[Techtonica](https://github.com/Techtonica/curriculum)** | [Individuals table distinction in mern-pern-project](https://github.com/Techtonica/curriculum/pull/2610) |
 
 ---
 
