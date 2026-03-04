@@ -61,12 +61,8 @@ Lead Fullstack Engineer with **a decade plus experience** delivering enterprise 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/rajkeshwar">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=rajkeshwar&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/rajkeshwar">
-    <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=rajkeshwar&show_icons=true&theme=nord&count_private=true" />
-  </a>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=rajkeshwar&theme=vue-dark" />
+  <imgs height="180" src="https://github-readme-stats-fast.vercel.app/api?username=rajkeshwar&show_icons=true&theme=nord&count_private=true" />
 </p>
 
 ---
