@@ -51,7 +51,7 @@ Lead Fullstack Engineer with **a decade plus experience** delivering enterprise 
 
 ### 🧪 Featured Projects
 
-* 🧱 **[Universal Web Components](https://uwc-components.netlify.app/?nav=splitter)** — Framework-agnostic design system (Angular, React, Vue, Vanilla JS)
+* 🧱 **[UWC Components](https://components.uwckit.com)** — Framework-agnostic design system (Angular, React, Vue, Vanilla JS)
 * 📧 **[Gmail UI Clone](https://rajkeshwar.github.io/gmail/)** — High-fidelity pixel-perfect recreation, built in one day
 * 🎨 **[CSS3 Animation Tool](https://rajkeshwar.github.io/css3-animations/animations)** — Interactive playground for production-ready CSS animations · [Docs](https://rajkeshwar.github.io/docs/main)
 * 🅰️ **[ng2ace Angular App](https://rajkeshwar.github.io/ng2ace-app)** — jQuery-inspired theming in Angular · [View Source](https://rajkeshwar.github.io/ng2ace-app/#/source-code)
